@@ -1,3 +1,3 @@
 # Single Price Grid Component
 
-### Single Price Grid Component, built with HTML and CS
+### Single Price Grid Component, built with HTML and CSS
